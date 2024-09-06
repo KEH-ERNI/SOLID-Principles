@@ -1,0 +1,14 @@
+c:\Users\Boot Camp\Desktop\bootcamp\KhylaEhzaHondrade\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.exe
+c:\Users\Boot Camp\Desktop\bootcamp\KhylaEhzaHondrade\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.deps.json
+c:\Users\Boot Camp\Desktop\bootcamp\KhylaEhzaHondrade\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.runtimeconfig.json
+c:\Users\Boot Camp\Desktop\bootcamp\KhylaEhzaHondrade\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.dll
+c:\Users\Boot Camp\Desktop\bootcamp\KhylaEhzaHondrade\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.pdb
+c:\Users\Boot Camp\Desktop\bootcamp\KhylaEhzaHondrade\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Boot Camp\Desktop\bootcamp\KhylaEhzaHondrade\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.AssemblyInfoInputs.cache
+c:\Users\Boot Camp\Desktop\bootcamp\KhylaEhzaHondrade\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.AssemblyInfo.cs
+c:\Users\Boot Camp\Desktop\bootcamp\KhylaEhzaHondrade\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+c:\Users\Boot Camp\Desktop\bootcamp\KhylaEhzaHondrade\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.dll
+c:\Users\Boot Camp\Desktop\bootcamp\KhylaEhzaHondrade\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\refint\OpenClosedPrinciple.dll
+c:\Users\Boot Camp\Desktop\bootcamp\KhylaEhzaHondrade\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.pdb
+c:\Users\Boot Camp\Desktop\bootcamp\KhylaEhzaHondrade\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.genruntimeconfig.cache
+c:\Users\Boot Camp\Desktop\bootcamp\KhylaEhzaHondrade\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\ref\OpenClosedPrinciple.dll
